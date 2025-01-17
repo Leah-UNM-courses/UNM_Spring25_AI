@@ -1,3 +1,3 @@
-# UNM_Spring25_AI
-code for UNM's Spring 2025 AI course
+# UNM Introduction to Artificial Intelligence
+This repository will hold starter code for programming assignments. 
 
